@@ -1,5 +1,5 @@
-# Active-Directory-Group-Membership-Settlement
-# Active Directory Group Membership Management Script
+# Active Directory Group Membership Settlement
+## Active Directory Group Membership Management Script
 
 This Script Create &amp; Fill Groups Automatically from an csv file 
 

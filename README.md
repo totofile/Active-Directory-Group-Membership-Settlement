@@ -10,7 +10,7 @@ This PowerShell script facilitates the management of group memberships in Active
 
 Before running this script, ensure you have the following:
 
-- **CSV File**: You need to have a CSV file named `mail_group.csv` containing the following columns:
+- **CSV File**: You need to have a CSV file named `mail_group.csv`(you can easily change this name in script) containing at least the following columns:
   - **mail**: Email addresses of the users to be added to groups.(the user have to exist)
   - **group**: Names of the groups to which users will be added.(if the group doesn't exist it will be created)
   - **description**: Description of the groups (optional).
